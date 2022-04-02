@@ -1,3 +1,3 @@
 # airbnb
 
-### https://joeunbiin.github.io/airbnb/
+### https://joeunbiin.github.io/r_airbnb/
