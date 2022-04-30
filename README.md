@@ -3,7 +3,7 @@
 ### https://joeunbiin.github.io/r_airbnb/
 
 
-### 🛠 React, Json, Javascript, HTML, CSS, JQuery
+### 🛠 React, Json, AJax, Javascript, HTML, CSS, JQuery, KoreaNewsAPI
 ----------
 
 🗣
