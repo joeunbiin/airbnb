@@ -1,6 +1,6 @@
 # r_airbnb
 
-### https://joeunbiin.github.io/r_airbnb/
+
 
 
 ### 🛠 React, Json, AJax, Javascript, HTML, CSS, JQuery, KoreaNewsAPI
